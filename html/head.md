@@ -8,17 +8,17 @@
 ```
 
 #### 语言属性
-为什么使用 lang="zh-cmn-Hans" 而不是我们通常写的 lang="zh-CN" 呢? 请参考知乎上的讨论: [网页头部的声明应该是用 lang="zh" 还是 lang="zh-cn"？](http://www.zhihu.com/question/20797118)
+为什么使用 lang="cmn-Hans" 而不是我们通常写的 lang="zh-CN" 呢? 请参考知乎上的讨论: [网页头部的声明应该是用 lang="zh" 还是 lang="zh-cn"？](http://www.zhihu.com/question/20797118)
 
 ```html
 <!-- 中文 -->
 <html lang="zh-Hans">
 
 <!-- 简体中文 -->
-<html lang="zh-cmn-Hans">
+<html lang="cmn-Hans">
 
 <!-- 繁体中文 -->
-<html lang="zh-cmn-Hant">
+<html lang="cmn-Hant">
 
 <!-- English -->
 <html lang="en">
